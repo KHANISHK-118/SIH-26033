@@ -110,10 +110,8 @@ The system supports digital payments through UPI or payment gateway integration.
 After delivery, buyers can provide ratings and feedback. The collected sales and order data are used to improve future demand forecasting and marketplace performance.
 
 ## **Implementation Flowchart**
+<img width="1199" height="1312" alt="FarmConnect AI Implementation Flowchart" src="https://github.com/user-attachments/assets/f83e7217-b8bb-4a90-a60c-1ee39e13677f" />
 
-[Namma Sandhai – Smart Agriculture Marketplace for Farmers in Tamil Nadu](https://images.openai.com/static-rsc-4/DwhR-1Psij_5qKkeC87CwTEnjRSXAkZ2RpTa8UkNfC4vVi9JGPzWJ62LHQLIX4J9hWt7D9VYRDXi4354OgHPHHkmlA5m-IJHbXiVjh3Kz5u8Raq4Y_fEjfwAb6bpb9koEy2HdqgJlT6OYTA-mOENs0atU968I0DFj0nGD8vQa3E?purpose=inline)
-
-[websitescorp.com](https://www.websitescorp.com/blog/namma-sandhai-smart-agriculture-marketplace-for-farmers-in-tamil-nadu?utm_source=chatgpt.com)
 
 ### **Working Prototype**
 
