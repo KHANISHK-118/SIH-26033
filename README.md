@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:24/11/2026
+## Reference Number: 26001955
+## Name: Khanishk D N
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -46,8 +46,8 @@ Develop a digital agricultural marketplace called **FarmConnect AI** that connec
 - Direct farmer-to-consumer and farmer-to-bulk-buyer connections.
 - Transparent pricing and digital transactions.
 - Integrated marketplace combining agricultural sales, logistics and AI in one platform.
-## Technical Approach
-# **Technical Approach**
+
+##**Technical Approach**
 
 ## **FarmConnect AI – SIH 26033**
 
@@ -131,7 +131,6 @@ The prototype will demonstrate the complete process of connecting farmers direct
 
 FarmConnect AI will provide a transparent and efficient agricultural supply chain by reducing unnecessary intermediaries, improving farmers' earnings, lowering consumer prices and minimizing transportation inefficiencies.
 
-## Feasibility and Viability
 # **Feasibility and Viability**
 
 ## **FarmConnect AI – SIH 26033**
@@ -181,7 +180,8 @@ The solution supports rural development by improving farmers' market access, inc
 ### **Conclusion**
 
 FarmConnect AI is a feasible, affordable and scalable solution for improving agricultural marketing. Although challenges such as digital literacy, logistics and price fluctuations may arise, they can be addressed through suitable technology, partnerships and effective implementation strategies. The platform can help create a transparent agricultural marketplace that improves farmers' income, reduces consumer prices and minimizes supply chain inefficiencies.
-## Impact and Benefits
+
+## **Impact and Benefits**
 
 ## **FarmConnect AI – SIH 26033**
 
