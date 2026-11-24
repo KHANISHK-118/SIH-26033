@@ -252,7 +252,6 @@ FarmConnect AI is designed to benefit farmers, Farmer Producer Organizations (FP
 
 FarmConnect AI aims to create a farmer-friendly and consumer-oriented agricultural ecosystem. By connecting producers directly with buyers, the platform can improve farmers' income, provide affordable agricultural products to consumers, reduce food wastage and promote sustainable rural development.
 
-## Research and References
 ## **Research and References**
 
 ### **FarmConnect AI – SIH 26033**
